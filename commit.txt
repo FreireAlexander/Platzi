@@ -1,0 +1,6 @@
+lesson: Complejidad Algoritimica en Python
+
+	- Lesson -> Abstracción
+
+
+author: Zero Desktop
