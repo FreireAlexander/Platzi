@@ -1,6 +1,6 @@
 lesson: Complejidad Algoritimica en Python
 
-	- Lesson -> Abstracción
+	- Algoritmos de Busquedad lineales 
 
 
-author: Zero Desktop
+author: Zero Asus
