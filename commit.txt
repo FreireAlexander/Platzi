@@ -1,6 +1,10 @@
-lesson: Complejidad Algoritimica en Python
+course: Complejidad Algoritimica en Python
+lesson: Bubble Sort
+	
+	- Algoritmo  de ordenamiento Burbuja
+	- Ambientes virtuales en Python
 
-	- Algoritmos de Busquedad lineales 
-
+	extras: 
+		- Curso cppPractico creado con un archivo main.cpp
 
 author: Zero Asus
