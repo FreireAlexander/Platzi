@@ -1,10 +1,7 @@
-course: Complejidad Algoritimica en Python
-lesson: Bubble Sort
+course: C++ Practico
+lesson: Construyendo el Juego, Dibujando el Mapa
 	
-	- Algoritmo  de ordenamiento Burbuja
-	- Ambientes virtuales en Python
+	- Enlazando archivos .cpp y sus headers
+	- Abstraccion de los elementos del juego
 
-	extras: 
-		- Curso cppPractico creado con un archivo main.cpp
-
-author: Zero Asus
+author: Zero
