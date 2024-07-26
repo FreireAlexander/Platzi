@@ -1,7 +1,6 @@
-course: C++ Practico
-lesson: Construyendo el Juego, Dibujando el Mapa
+course: Curso Practico de Python: Creacion de un CRUD
+lesson: Init Course
 	
-	- Enlazando archivos .cpp y sus headers
-	- Abstraccion de los elementos del juego
+		
 
 author: Zero
