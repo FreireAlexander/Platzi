@@ -1,6 +1,7 @@
-course: Curso Practico de Python: Creacion de un CRUD
-lesson: Init Course
+course: Curso de FastAPI
+lessons: Metodos Post, Get, Put & Delete 
 	
+	Repaso del uso de los metodos para manipular datos con FastAPI
 		
 
 author: Zero
