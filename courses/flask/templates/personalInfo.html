@@ -1,0 +1,11 @@
+{% macro personalInfo(user) %}
+<article class="card">
+    <h4>{{user.name}}</h4>
+    <p>{{user.role}}</p>
+    <div class="badges">
+        {% for badge in user.badges %}
+            <p>{{badge}}</p>
+        {% endfor %}
+    </div>
+</article>
+{% endmacro %}

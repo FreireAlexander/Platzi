@@ -1,0 +1,10 @@
+{% extends 'index.html' %}
+{% import 'personalInfo.html' as personalInfo %}
+
+{% block title %}
+    {{super()}}
+    {{ user.name }}
+{% endblock %}
+{% block personal %}
+    {{ personalInfo.personalInfo(user) }}
+{% endblock %}

@@ -1,0 +1,9 @@
+{% extends 'index.html' %}
+{% import 'personalInfo.html' as personalInfo%}
+{% block team %}
+<section>
+    {% for user in users %}
+        {{personalInfo.personalInfo(user)}}
+    {% endfor %}
+</section>
+{% endblock %}
